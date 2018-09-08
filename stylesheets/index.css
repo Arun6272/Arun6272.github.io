@@ -1,0 +1,32 @@
+.header
+{
+        color:white;
+        font-family:century gothic;
+        font-size:150%;
+        text-align:center;
+}
+        
+ .main
+ {
+        color:white;
+        font-family:century gothic;
+        font-size:100%;
+        text-align:center;
+ }
+ body
+{
+       background-color:rgb(111,166,134);
+       font-family:century gothic;
+       color:white;
+      text-align:center;
+      font-size:200%;
+}
+ .imag
+{
+        border-radius:5%;
+        border:1px solid white;
+        padding:7px;
+        height:280px;
+        width:220px;
+        vertical-align:middle;
+ }
